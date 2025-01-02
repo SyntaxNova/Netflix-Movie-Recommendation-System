@@ -65,7 +65,7 @@ Recommended Movies:
 
 Below is a screenshot of the recommendation system in action:
 
-![Working Output](output.png)
+![Working Output](output.png.png)
 
 ## Future Enhancements
 
