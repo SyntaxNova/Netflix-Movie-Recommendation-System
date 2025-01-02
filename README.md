@@ -67,12 +67,6 @@ Below is a screenshot of the recommendation system in action:
 
 ![Working Output](output.png.png)
 
-## Future Enhancements
-
-- Implement collaborative filtering.
-- Integrate with a web framework (e.g., Flask or Django).
-- Utilize deep learning models for improved recommendations.
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
